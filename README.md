@@ -20,7 +20,7 @@ I'm happy to welcome all the contributions from anyone willing to add new script
 
 ### Steps to Contribute👩‍💻👨‍💻
 
-When contributing to this repository, please first discuss the change you wish to make via raising an <a href="">issue</a>
+When contributing to this repository, please first discuss the change you wish to make via raising an issue.
 
 Follow these steps to make a contribution:
 
