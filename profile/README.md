@@ -1,8 +1,8 @@
-# About this organisation
+# About this organisation 🧑‍💻
 
 ##### This orgranisation is created to support Android developers of all levels to make open source easy and fun. This aims in  making developers community friendly and promotes to narrow the gap between beginners and experienced developers. Most newbies remain confused about how to start with open source (especially in android as it is little difficult to setup android projects), so this community will also provide room for newbies by providing easy to read and understandable codebases.
 
-# Our Mission 
+# Our Mission 🚀
 
 ##### We aim in: 
 - Improving Communition between developer all over the globe.
@@ -12,7 +12,7 @@
 - Clearing most of the common android queries/doubts.
 - Helping open source widely grow.
 
-# Contribution Guidelines
+# Contribution Guidelines 🔍
 
 This documentation contains a set of guidelines to help you during the contribution process. 
 I'm happy to welcome all the contributions from anyone willing to add new scripts to this repository. Thank you for helping out and remember,
