@@ -1,6 +1,6 @@
 # About this organisation 🧑‍💻
 
-#### This orgranisation is created to support Android developers of all levels to make open source easy and fun. This aims in  making developers community friendly and promotes to narrow the gap between beginners and experienced developers. Most newbies remain confused about how to start with open source (especially in android as it is little difficult to setup android projects), so this community will also provide room for newbies by providing easy to read and understandable codebases.
+This orgranisation is created to support Android developers of all levels to make open source easy and fun. This aims in  making developers community friendly and promotes to narrow the gap between beginners and experienced developers. Most newbies remain confused about how to start with open source (especially in android as it is little difficult to setup android projects), so this community will also provide room for newbies by providing easy to read and understandable codebases.
 
 # Our Mission 🚀
 
